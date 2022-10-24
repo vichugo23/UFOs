@@ -18,4 +18,4 @@ Here, the first screenshot shows how the website looks when you first arrive to 
  
  # Summary
  
- 
+ The website is simple and easy to understand which is great for presenting the data. One of the things I probably will change is changing up the colors a bit so it won't look too plain. I also think it would be a cool idea to have a submission box in there for the user. There could be a user that would like to share their experience and submit it to the website and that would also allow the website to be updated.
